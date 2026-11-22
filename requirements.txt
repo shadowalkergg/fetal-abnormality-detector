@@ -3,7 +3,12 @@ streamlit
 torch
 torchvision
 scikit-learn
+xgboost
+lightgbm
 pandas
 numpy
 pillow
 joblib
+scikit-learn==1.5.2
+xgboost==2.1.1
+lightgbm==4.5.0
